@@ -1,1 +1,1 @@
-Este repositório contém alguns exercícios do URI resolvidos
+Este repositório contém alguns exercícios do URI resolvidos utilizando Python
