@@ -1,0 +1,1 @@
+Este repositório contém alguns exercícios do URI resolvidos
